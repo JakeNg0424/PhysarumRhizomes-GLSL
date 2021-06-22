@@ -6,7 +6,7 @@ Inspiration: https://en.wikipedia.org/wiki/Physarum_polycephalum
 <img src=".ignore/1.gif" width="240" height="240"/><-Cellular Clusters
 
 <img src=".ignore/2.png" width="240" height="240"/><-Physarum Rhizomes
-<img src=".ignore/2.gif" width="240" height="240"/>M-Celluar Clusters
+<img src=".ignore/2.gif" width="240" height="240"/><-Celluar Clusters
 
 The output of the GLSL code looks like empty clusters of cells with their walls mushed together.
 For my project, I wanted to use the outlines of the physarum rhizomes to fill them up with movement to make it look like a cluster of cells under a microscope.
